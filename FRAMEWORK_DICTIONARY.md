@@ -1,3 +1,9 @@
+---
+layout: default
+title: Framework Dictionary
+permalink: /FRAMEWORK_DICTIONARY.html
+---
+
 ####### FRAMEWORK_DICTIONARY.md
 Oggetti
 - Script [VERIFICATO]
