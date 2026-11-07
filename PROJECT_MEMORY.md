@@ -1,3 +1,9 @@
+---
+layout: default
+title: Project Memory
+permalink: /PROJECT_MEMORY.html
+---
+
 ####### PROJECT_MEMORY.md
 ####### PROJECT STATE
 - Script analizzati
